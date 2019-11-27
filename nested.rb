@@ -87,7 +87,7 @@ def adding_matz
 			 languages: ["Lisp", "C"]
 		 }
 
-		 return pregrammer_hash
+		 return programmer_hash
 
 end
 
