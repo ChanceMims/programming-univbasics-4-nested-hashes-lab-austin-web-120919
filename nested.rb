@@ -37,7 +37,7 @@ def alan_kay_is_known_for
           :languages => ["C"]
         }
      }
-		 return grace_hopper[:known_for]
+		 return grace_hopper
 end
 
 def dennis_ritchies_language
